@@ -14,4 +14,5 @@ function trafficLights(){
             --counter;
         }
     }
-} 
+}
+trafficLights();
